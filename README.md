@@ -1,6 +1,6 @@
 ## A RESTfull API with Node.js  and Express.js that uses mongoose for working with NoSQL Mongodb Atlas Database using Mongoose.js .
 
-This is a Restfull Api of a e-shop simulation with users, orders and products. 
+This is a Restfull API of a e-shop simulation with users, orders and products. 
     
 ### Prerequisites
 nodejs , npm   
@@ -12,7 +12,7 @@ https://users-products-orders.herokuapp.com
 npm install 
 npm start
 
-### To play with the Api i recommend using Postman
+### To play with the API i recommend using Postman
 https://www.getpostman.com/
 
 
